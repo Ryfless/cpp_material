@@ -1,0 +1,31 @@
+/* Macam macam tipe data di C++ */
+
+Integer (bilangan bulat) {
+  int (4bytes,	-2147483648 sampai 2147483647)
+  short int	(2bytes,	-32768 sampai 32767)  
+  long int	(4bytes,	-2,147,483,648 sampai 2,147,483,647) 
+}
+
+Desimal {
+  float	(4bytes,	+/- 3.4e +/- 38 (~7 digits))
+  double	(8bytes,	+/- 1.7e +/- 308 (~15 digits))
+  long double	(8bytes,	+/- 1.7e +/- 308 (~15 digits))
+}
+
+karakter {
+  char	(1byte,	-127 sampai 127 atau 0 sampai 255)
+  string
+}
+
+boolean (nilai kebenaran) {
+  bool (true || false)
+}
+
+/* Cara pengaplikasian tipe data */
+
+tipe_data nama_variabel = value; // !-- nama variabel tidak boleh ada symbol, spasi, atau fungsi
+example:
+  int a = 2;
+  float x = 0.5;
+  char i = "keren";
+  bool p = true;
