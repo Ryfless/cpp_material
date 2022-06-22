@@ -1,2 +1,4 @@
 # cpp_material
-materi c++
+Materi C++
+  Ini adalah Materi Dasar Bahasa Pemrograman C++
+# Semoga Membantu :)
