@@ -1,8 +1,8 @@
 # cpp_material
 Materi C++\
-Source code native c++ dan OOP\
-ini adalah sebuah kumpulan source code yang dapat dijadikan referensi\
+Source code native c++ dan OOP
+>ini adalah sebuah kumpulan source code yang dapat dijadikan referensi\
 jika ingin tutorial lebih lanjut dapat check di  
-\(https://www.youtube.com/watch?v=WtBF_-pLrjE&list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI)
+>\(https://www.youtube.com/watch?v=WtBF_-pLrjE&list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI)
 
 # Semoga Membantu :)
