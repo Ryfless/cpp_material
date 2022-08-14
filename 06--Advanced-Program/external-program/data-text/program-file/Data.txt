@@ -1,0 +1,13 @@
+Hello World!
+Ini adalah baris ke-dua
+
+data:
+No	Nama
+1	dadang
+2	ucup
+3	medan
+4	siti
+5	jaki
+6	kipli
+7	icikiwir
+8   idan
